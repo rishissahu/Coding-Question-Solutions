@@ -18,12 +18,6 @@ Input:
 N = 4, K = 3
 arr[] = {5,6,8,9}
 Output: 8 6 5 9
- 
-
-Your Task:
-You don't need to read input or print anything. The task is to complete the function reverseInGroups() which takes the array, N and K as input parameters and modifies the array in-place. 
-
- 
 
 Expected Time Complexity: O(N)
 Expected Auxiliary Space: O(1)
